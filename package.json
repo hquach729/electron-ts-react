@@ -1,0 +1,9 @@
+{
+  "name": "electron-ts-react",
+  "version": "1.0.0",
+  "description": "Electron Typescript React Template",
+  "main": "electron.js",
+  "repository": "https://github.com/hquach729/electron-ts-react.git",
+  "author": "Hung Quach",
+  "license": "MIT"
+}
